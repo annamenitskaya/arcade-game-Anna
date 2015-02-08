@@ -1,0 +1,13 @@
+1. JavaScript | Codecademy  course
+2. Eloquent JavaScript by Marijn Haverbeke.
+3. JavaScript: The Good Parts by Douglas Crockford
+4. Piazza Forums
+5. Mozilla Developer Network 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+5. GitHub repositories that were helpful: 
+- Itoro Akpan-Iquot's frontend-nanodegree-arcade-game - Frogger
+- http://anjalinanda.github.io/FroggerGame/
+- http://bahalps.github.io/frontend-nanodegree-arcade-game/
+- [Ben Halperin]
+- [Haopei Yang] 
+etc
